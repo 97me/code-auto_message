@@ -1,4 +1,4 @@
-# THis code is log-in to web(http://munjaq.com/mai), and write routine message auto
+# THis code is log-in to web(http://munjaq.com/main), and write routine message auto
 
 change the line6, 7 ( your id and pwd)
 
